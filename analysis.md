@@ -1,4 +1,4 @@
-# 📊 Analysis Guide for Scribe Bot
+# 🤖 Analysis Guide for Scribe Bot
 *How the bot evaluates and recommends stock actions*
 
 ---
