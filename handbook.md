@@ -59,6 +59,7 @@ If you'd like to invite the Scribe Bot to your own server, you can do so using t
 <details>
   <summary>Example Response</summary>
   📝 **Long Recommendations:**
+  
   - **MSFT**, Exchange: NASDAQ: New York, Confidence - Low
   - **XOM**, Exchange: NYSE: New York, Confidence - Low
   - **ABT**, Exchange: NYSE: New York, Confidence - Low
