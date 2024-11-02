@@ -29,7 +29,7 @@ The purpose of this document is to provide insight into how the stock recommenda
 ### 📈 Exponential Moving Averages
 - **EMA 20**: Exponential Moving Average of the stock's closing price over the last 20 days.
 - **EMA 200**: Exponential Moving Average of the stock's closing price over the last 200 days.
-- **Positioning**: Stocks below EMA20 and EMA200 are considered for long recommendations, while those above both are considered for short recommendations.
+- **Positioning**: Stocks below EMA20 and EMA200 are considered for long recommendations, while those above both are considered for short recommendations, as long as the EMA trend supports it.
 
 ### 📊 Volume Analysis
 - **Volume Multiplier**: Evaluated through `_score_volume`, this indicator assesses the trading volume relative to historical averages, enhancing the weight of the recommendation scores.
