@@ -3,6 +3,14 @@
 
 ---
 
+## **Interact with the Scribe Bot on Discord**
+
+You can interact with the Scribe Bot by joining our Discord server: [Join the Bot Gallery Server](https://discord.gg/9AXMNBfPMF).
+
+If you'd like to invite the Scribe Bot to your own server, you can do so using this link: [Invite Scribe Bot](https://discord.com/api/oauth2/authorize?client_id=899283955000414238&permissions=534794206272&scope=bot).
+
+---
+
 ## 📑 Table of Contents
 1. [📋 Introduction](#introduction)
 2. [🔍 Technical Indicators Used](#technical-indicators-used)
