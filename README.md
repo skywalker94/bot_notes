@@ -44,16 +44,16 @@ Scribe Bot is your powerful trading assistant, expertly engineered for stock tra
 ---
 
 ## Getting Started
-You can interact with the Scribe Bot by joining our Discord server: [Join the Bot Gallery Server](https://discord.gg/9AXMNBfPMF).
+You can interact with the Scribe Bot by joining our Discord server: <a href="https://discord.gg/9AXMNBfPMF" target="_blank" rel="noopener noreferrer">Join the Bot Gallery Server</a>.
 
-If you'd like to invite the Scribe Bot to your own server, you can do so using this link: [Invite Scribe Bot](https://discord.com/api/oauth2/authorize?client_id=899283955000414238&permissions=534794206272&scope=bot).
+If you'd like to invite the Scribe Bot to your own server, you can do so using this link: <a href="https://discord.com/api/oauth2/authorize?client_id=899283955000414238&permissions=534794206272&scope=bot" target="_blank" rel="noopener noreferrer">Invite Scribe Bot</a>.
 
 ---
 
 ## Resources
-- For detailed user instructions, refer to the [User Handbook](https://github.com/skywalker94/scribe_bot_notes/blob/main/handbook.md).
-- Access the [Input Sheet](https://docs.google.com/spreadsheets/d/1dVZjD294f4IPGJIE9EKR47hygZmnB9AE6LBlZ3gLw-w) that controls the instruments that the bot is tracking for streamlined management.
-- For an in-depth analysis of the bot's functionality, visit the [Analysis Document](https://github.com/skywalker94/scribe_bot_notes/blob/main/analysis.md).
+- For detailed user instructions, refer to the <a href="https://github.com/skywalker94/scribe_bot_notes/blob/main/handbook.md" target="_blank" rel="noopener noreferrer">User Handbook</a>.
+- Access the <a href="https://docs.google.com/spreadsheets/d/1dVZjD294f4IPGJIE9EKR47hygZmnB9AE6LBlZ3gLw-w" target="_blank" rel="noopener noreferrer">Input Sheet</a> that controls the instruments that the bot is tracking for streamlined management.
+- For an in-depth analysis of the bot's functionality, visit the <a href="https://github.com/skywalker94/scribe_bot_notes/blob/main/analysis.md" target="_blank" rel="noopener noreferrer">Analysis Document</a>.
 
 ---
 
