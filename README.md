@@ -53,7 +53,7 @@ If you'd like to invite the Scribe Bot to your own server, you can do so using t
 ## Resources
 - For detailed user instructions, refer to the <a href="https://github.com/skywalker94/scribe_bot_notes/blob/main/handbook.md" target="_blank" rel="noopener noreferrer">User Handbook</a>.
 - Access the <a href="https://docs.google.com/spreadsheets/d/1dVZjD294f4IPGJIE9EKR47hygZmnB9AE6LBlZ3gLw-w" target="_blank" rel="noopener noreferrer">Input Sheet</a> that controls the instruments that the bot is tracking for streamlined management.
-- For an in-depth analysis of the bot's functionality, visit the <a href="https://github.com/skywalker94/scribe_bot_notes/blob/main/analysis.md" target="_blank" rel="noopener noreferrer">Analysis Document</a>.
+- For an in-depth analysis of the bot's functionality, visit the <a href="https://github.com/skywalker94/bot_notes/edit/main/handbook.md" target="_blank" rel="noopener noreferrer">Analysis Document</a>.
 
 ---
 
