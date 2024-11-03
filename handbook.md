@@ -131,7 +131,7 @@ If you'd like to invite the Scribe Bot to your own server, you can do so using t
 <details>
   <summary>Example Response</summary>
 
-  **Analysis Guide for Scribe Bot:** 🔗 [View Analysis Guide](https://github.com/skywalker94/scribe_bot_notes/blob/main/analysis.md)
+  **Analysis Guide for Scribe Bot:** 🔗 [View Analysis Guide](https://github.com/skywalker94/bot_notes/edit/main/handbook.md)
 </details>
 
 ---
